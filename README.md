@@ -2,7 +2,7 @@
 
 # Hi, I'm Mushfique Sarwar <img src="https://emojis.slackmojis.com/emojis/images/1643515716/14568/wave.gif" width="28">
 
-### Computer Science Undergraduate
+### Computer Science Undergraduate Student
 
 **Major in Computer Science**
 
